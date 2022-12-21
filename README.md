@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/0*0O5n9x6pzlJ5qLkC.gif)
-<h1 align="center">Hi 👋, I'm fidan</h1>
+<h1 align="center">Hi 👋, I'm Fidan</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 - 🔭 I’m currently working on [DevShed](https://devshed.vercel.app/)
