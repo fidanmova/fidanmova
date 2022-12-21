@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/0*0O5n9x6pzlJ5qLkC.gif)
-<h1 align="center">Hi 👋, I'm Fidan</h1>
+<h1 align="center">Hi 👋, I'm fidan</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 - 🔭 I’m currently working on [DevShed](https://devshed.vercel.app/)
@@ -8,13 +8,14 @@
 
 - 💬 Ask me about **weather**
 
-- 📫 How to reach me **fidan@gmail.com**
-
 - ⚡ Fun fact **I like it funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fidandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fidandev" height="30" width="40" /></a>
+  </p>
+  <p align="left">
+<a href="mailto:fidanmova@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"  height="30" width="40" alt="mail"></a> &nbsp; &nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
