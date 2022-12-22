@@ -8,7 +8,6 @@
 - 🔭 Group Project: App for developer community where people meet, inspire, create and support each other [DevShed](https://devshed.vercel.app/)
 - 🔭 My portfolio created by React and Tailwind [Portfolio](https://portfoliofidan.vercel.app/)
 - 🔭 My first portfolio created by React and SASS [PortReact](https://fidanportfolio.vercel.app/)
-- 🔭 Mern Stack Chat App for group or single chat rooms [ChatMe ](https://chat-j1bt.onrender.com/)
 - 🔭 Joke Generator searchs a word and fetches the jokes [Jokes ](https://fetchjoke.vercel.app/)
 
 - 💬 Ask me about **anything**
