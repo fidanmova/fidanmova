@@ -4,14 +4,10 @@
 
 - 🔭 I’m currently working on **Commerce App**
 - 👨‍💻 All of my projects are available at [portfolio](https://portfoliofidan.vercel.app/)
-- 👨‍💻 Or simple check them below:
 - 🔭 Group Project: App for developer community where people meet, inspire, create and support each other [DevShed](https://devshed.vercel.app/)
 - 🔭 My first portfolio created by React and SASS [PortReact](https://fidanportfolio.vercel.app/)
 - 🔭 Joke Generator searchs a word and fetches the jokes [Jokes ](https://fetchjoke.vercel.app/)
 
-- 💬 Ask me about **anything**
-
-- ⚡ Fun fact **I like it funny**
 
 <h3 align="left">Get In Touch:</h3>
 <a href="https://linkedin.com/in/fidandev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fidandev" height="30" width="40" />  </a> &nbsp; &nbsp;
