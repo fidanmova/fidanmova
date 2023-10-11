@@ -2,10 +2,8 @@
 <h1 align="center">Hi 👋, I'm Fidan</h1>
 <h3 align="center">A passionate Full Stack/Frontend developer</h3>
 
-- 🔭 I’m currently working on **Cypress Testing**
 - 👨‍💻 All of my projects are available at [portfolio](https://fidanportfolio.vercel.app/)
 - 🔭 Group Project: App for developer community where people meet, inspire, create and support each other [DevShed](https://devshed.vercel.app/)
-- 🔭 My first portfolio created by React and SASS [PortReact](https://fidanportfolio.vercel.app/)
 - 🔭 Joke Generator searchs a word and fetches the jokes [Jokes ](https://fetchjoke.vercel.app/)
 
 
