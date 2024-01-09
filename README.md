@@ -4,7 +4,7 @@
 
 - 🔭 Group Project: App for developer community where people meet, inspire, create and support each other [DevShed](https://devshed.vercel.app/)
 - 🔭 Joke Generator searchs a word and fetches the jokes [Jokes ](https://fetchjoke.vercel.app/)
-
+- 🔭 Web Page for designer [Fanny Pokrandt ](https://www.fannypokrandt.com/project)
 
 <h3 align="left">Get In Touch:</h3>
 <a href="https://linkedin.com/in/fidandev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fidandev" height="30" width="40" />  </a> &nbsp; &nbsp;
